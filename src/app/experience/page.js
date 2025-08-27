@@ -71,14 +71,14 @@ export default function ExperiencePage() {
               <div className="text-center py-16">
                 <div className="text-6xl mb-4">📝</div>
                 <h3 className="text-xl font-semibold text-white mb-2">Experience Coming Soon</h3>
-                <p className="text-zinc-400">I'm currently building my experience portfolio. Check back later!</p>
+                <p className="text-zinc-400">I&apos;m currently building my experience portfolio. Check back later!</p>
               </div>
             )}
             {/* Call to Action */}
             <div className="text-center mt-16 p-8 bg-gradient-to-r from-cyan-500/10 to-purple-500/10 rounded-2xl border border-cyan-400/20">
               <h3 className="text-xl font-semibold mb-4 text-white">Interested in Working Together?</h3>
               <p className="text-zinc-300 mb-6">
-                Let's discuss how my experience can contribute to your projects.
+                Let&apos;s discuss how my experience can contribute to your projects.
               </p>
               <a 
                 href="/contact" 

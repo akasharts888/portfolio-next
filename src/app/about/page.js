@@ -54,7 +54,7 @@ export default function AboutPage() {
                         </h2>
                         <div className="space-y-4 text-zinc-300">
                             <p>
-                            I'm a passionate AI/ML Engineer with expertise in building intelligent systems that 
+                            I&apos;m a passionate AI/ML Engineer with expertise in building intelligent systems that 
                             solve real-world problems. My journey in AI started with a curiosity about how machines 
                             can learn and understand human language.
                             </p>
@@ -102,9 +102,9 @@ export default function AboutPage() {
                     </div>
                     {/* Call to Action */}
                     <div className="mt-16 text-center p-8 bg-gradient-to-r from-cyan-500/10 to-purple-500/10 rounded-2xl border border-cyan-400/20">
-                        <h3 className="text-xl font-semibold mb-4 text-white">Let's Build Something Amazing Together</h3>
+                        <h3 className="text-xl font-semibold mb-4 text-white">Let&apos;s Build Something Amazing Together</h3>
                         <p className="text-zinc-300 mb-6 max-w-2xl mx-auto">
-                        Interested in implementing AI solutions for your business? I'm always open to discussing new projects and opportunities.
+                        Interested in implementing AI solutions for your business? I&apos;m always open to discussing new projects and opportunities.
                         </p>
                         <a 
                         href="/contact" 

@@ -16,7 +16,7 @@ export default function ProjectsPage() {
               My Projects
             </h1>
             <p className="text-lg text-zinc-300 max-w-2xl mx-auto">
-              Here are some of the projects I've worked on, showcasing my skills in AI/ML development, 
+              Here are some of the projects I&apos;ve worked on, showcasing my skills in AI/ML development, 
               web applications, and innovative solutions.
             </p>
           </div>
@@ -53,7 +53,7 @@ export default function ProjectsPage() {
             <div className="text-center py-16">
               <div className="text-6xl mb-4">🚧</div>
               <h3 className="text-xl font-semibold text-white mb-2">Projects Coming Soon</h3>
-              <p className="text-zinc-400">I'm currently working on some exciting projects. Check back later!</p>
+              <p className="text-zinc-400">I&apos;m currently working on some exciting projects. Check back later!</p>
             </div>
           )}
         </div>

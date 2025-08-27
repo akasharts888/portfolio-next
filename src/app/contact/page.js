@@ -66,7 +66,7 @@ export default function ContactPage() {
             >
               <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 text-transparent bg-clip-text mb-6">Get in Touch</h1>
               <p className="text-lg text-zinc-300 max-w-2xl mx-auto">
-                I’d love to connect! Whether you want to collaborate, discuss AI/ML,
+                I&apos;d love to connect! Whether you want to collaborate, discuss AI/ML,
                 or just say hi, feel free to reach out.
               </p>
             </motion.div>
@@ -81,10 +81,10 @@ export default function ContactPage() {
                 <div>
                   <h2 className="text-2xl font-semibold text-white mb-6 flex items-center">
                     <span className="w-2 h-6 bg-gradient-to-b from-cyan-400 to-purple-500 rounded-full mr-3"></span>
-                    Let's Connect
+                    Let&apos;s Connect
                   </h2>
                   <p className="text-zinc-300 mb-6">
-                    I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+                    I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
                   </p>
                 </div>
                 <div className="space-y-6">
@@ -181,7 +181,7 @@ export default function ContactPage() {
                     animate={{ opacity: 1, y: 0 }}
                     className="mb-6 p-4 bg-green-500/10 border border-green-500/20 rounded-lg text-green-400"
                   >
-                    ✅ Message sent successfully! I'll get back to you soon.
+                    ✅ Message sent successfully! I&apos;ll get back to you soon.
                   </motion.div>
                 )}
                 {submitStatus === 'error' && (

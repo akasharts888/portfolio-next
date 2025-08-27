@@ -63,7 +63,7 @@ export default function CertificationsPage() {
             <div className="text-center py-16">
               <div className="text-6xl mb-4">📜</div>
               <h3 className="text-xl font-semibold text-white mb-2">Certifications Coming Soon</h3>
-              <p className="text-zinc-400">I'm currently working on expanding my certifications. Check back later!</p>
+              <p className="text-zinc-400">I&apos;m currently working on expanding my certifications. Check back later!</p>
             </div>
           )}
           {/* Call to Action */}
@@ -76,7 +76,7 @@ export default function CertificationsPage() {
               href="/contact" 
               className="inline-block bg-gradient-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 rounded-lg font-medium transition-all hover:from-cyan-600 hover:to-blue-700 shadow-lg hover:shadow-cyan-500/25"
             >
-              Let's Connect
+              Let&apos;s Connect
             </a>
           </div>
         </div>

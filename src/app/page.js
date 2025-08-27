@@ -41,7 +41,7 @@ export default function Home() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="mt-6 max-w-3xl text-lg sm:text-xl text-zinc-300"
         >
-           I'm <span className="font-semibold text-white">Akash Sharma</span> — Full Stack AI/ML Engineer
+           I&apos;m <span className="font-semibold text-white">Akash Sharma</span> — Full Stack AI/ML Engineer
           crafting{" "}
           <span className="text-cyan-300">Agentic AI</span>,{" "}
           <span className="text-blue-300">LLM fine-tuning</span>, and{" "}
