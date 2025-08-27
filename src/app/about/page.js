@@ -54,7 +54,7 @@ export default function AboutPage() {
                         </h2>
                         <div className="space-y-4 text-zinc-300">
                             <p>
-                            I&apos;m a passionate AI/ML Engineer with expertise in building intelligent systems that 
+                            I&apos;m a passionate Full Stack AI/ML Engineer with expertise in building intelligent systems that 
                             solve real-world problems. My journey in AI started with a curiosity about how machines 
                             can learn and understand human language.
                             </p>
