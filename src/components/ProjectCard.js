@@ -18,7 +18,7 @@ export default function ProjectCard({ project, featured = false }) {
       {/* Project Image */}
       <div className="h-48 bg-zinc-800 flex items-center justify-center relative overflow-hidden">
         <Image
-          src={`/images/${project.id}/${project.id}.jpg`}
+          src={`/Images/${project.id}/${project.id}.jpg`}
           alt={project.title}
           fill
           className="object-cover group-hover:scale-105 transition-transform duration-300"

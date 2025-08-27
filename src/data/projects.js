@@ -9,7 +9,7 @@ const projects = [
       tech: ["LangGraph", "Pinecone", "MongoDB", "FastAPI", "React"],
       link: "https://github.com/yourusername/auto-researcher",
       featured: true,
-      gallery: ['/images/AutoResearcher/AutoResearcher-Second-Page.jpg','/images/AutoResearcher/AutoResearcher-fourth-Page.jpg']
+      gallery: ['/Images/AutoResearcher/AutoResearcher-Second-Page.jpg','/Images/AutoResearcher/AutoResearcher-fourth-Page.jpg']
     },
     {
       id: "Cohort-Hive",
@@ -21,7 +21,7 @@ const projects = [
       tech: ["React", "Node.js", "FastAPI", "LangGraph"],
       link: "https://github.com/yourusername/cohort-hive",
       featured: true,
-      gallery: ['/images/Cohort-Hive/Cohort-1.jpg','/images/Cohort-Hive/Cohort-2.jpg','/images/Cohort-Hive/Cohort-3.jpg','/images/Cohort-Hive/Cohort-4.jpg']
+      gallery: ['/Images/Cohort-Hive/Cohort-1.jpg','/Images/Cohort-Hive/Cohort-2.jpg','/Images/Cohort-Hive/Cohort-3.jpg','/Images/Cohort-Hive/Cohort-4.jpg']
       
     },  
     {
@@ -40,7 +40,7 @@ const projects = [
       tech: ["React.js", "TailwindCSS", "Python", "PyTorch", "Agentic AI", "LLMs", "Vector DBs", "AWS"],
       link: "https://github.com/akasharts888/FinInsight",
       featured: true,
-      gallery: ['/images/FinInsight/FinInsight-2.jpg','/images/FinInsight/FinInsight-3.jpg','/images/FinInsight/FinInsight-4.jpg','/images/FinInsight/FinInsight-5.jpg']
+      gallery: ['/Images/FinInsight/FinInsight-2.jpg','/Images/FinInsight/FinInsight-3.jpg','/Images/FinInsight/FinInsight-4.jpg','/Images/FinInsight/FinInsight-5.jpg']
       
     },
     {
@@ -88,7 +88,7 @@ const projects = [
       tech: ["CrewAI", "Chroma", "Binary Quantization", "Streamlit", "Llama-3-70B", "Tavily"],
       link: "https://github.com/yourusername/Medical-Agentic-Workflow",
       featured: true,
-      gallery: ['/images/MedicalAgenticWorkflow/Medical-Agent-2.jpg']
+      gallery: ['/Images/MedicalAgenticWorkflow/Medical-Agent-2.jpg']
 
     },        
     {

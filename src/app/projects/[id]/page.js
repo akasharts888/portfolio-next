@@ -84,7 +84,7 @@ export default function ProjectDetails({ params }) {
           <div className="mb-8 rounded-xl overflow-hidden border border-zinc-700/50">
             <div className="w-full h-64 md:h-80 relative">
               <Image
-                  src={`/images/${project.id}/${project.id}.jpg`}
+                  src={`/Images/${project.id}/${project.id}.jpg`}
                   alt={project.title}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"

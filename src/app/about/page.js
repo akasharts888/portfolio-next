@@ -32,7 +32,7 @@ export default function AboutPage() {
                 <div className="text-center mb-16">
                     <div className="flex justify-center mb-8">
                         <ProfileImage
-                            src="/images/me-img.jpg"
+                            src="/Images/me-img.jpg"
                             alt="Akash Sharma"
                             width={192}
                             height={192}

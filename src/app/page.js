@@ -17,7 +17,7 @@ export default function Home() {
         >
           <div className="w-24 h-24 md:w-32 md:h-32 mx-auto rounded-full overflow-hidden border-2 border-cyan-400/30 shadow-lg shadow-cyan-400/20">
             <ProfileImage
-              src="/images/me-img.jpg"
+              src="/Images/me-img.jpg"
               alt="Akash Sharma"
               width={128}
               height={128}
