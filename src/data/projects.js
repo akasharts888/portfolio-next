@@ -7,7 +7,7 @@ const projects = [
       longDescription:
         "AutoResearcher is an intelligent, agentic AI system that automates the end-to-end research process. It uses LangGraph to orchestrate multiple autonomous nodes for distinct tasks like query planning, memory validation, structured web research, contextual summarization, critique/review, and iterative rewriting for quality assurance. The system leverages a hybrid memory layer (MongoDB + Pinecone) to recall past research and avoid redundancy. The backend is powered by FastAPI for efficiency, while the React-based frontend delivers a research-focused UX/UI with interactive summaries, sources, and reports. This project demonstrates the application of multi-agent systems to real-world knowledge discovery and academic/market research workflows.",
       tech: ["LangGraph", "Pinecone", "MongoDB", "FastAPI", "React"],
-      link: "https://github.com/yourusername/auto-researcher",
+      link: "https://github.com/akasharts888/AutoResearcher",
       featured: true,
       gallery: ['/Images/AutoResearcher/AutoResearcher-Second-Page.jpg','/Images/AutoResearcher/AutoResearcher-fourth-Page.jpg']
     },
@@ -19,7 +19,7 @@ const projects = [
       longDescription:
         "Cohort Hive is a personalized AI-powered tutoring platform built to simulate the role of a dedicated mentor. It adapts to individual learner needs by teaching new concepts daily, conducting quizzes to reinforce past knowledge, and dynamically adjusting the learning path based on progress. The system also enforces mentor-like accountability by ensuring no redundant lessons and encouraging consistent engagement. Built using React and Node.js for the frontend and FastAPI for backend services, it leverages LangGraph for orchestrating agentic learning workflows. Cohort Hive represents a fusion of adaptive learning technology and intelligent automation, making education more structured, interactive, and engaging.",
       tech: ["React", "Node.js", "FastAPI", "LangGraph"],
-      link: "https://github.com/yourusername/cohort-hive",
+      link: "https://github.com/akasharts888/CohortHive",
       featured: true,
       gallery: ['/Images/Cohort-Hive/Cohort-1.jpg','/Images/Cohort-Hive/Cohort-2.jpg','/Images/Cohort-Hive/Cohort-3.jpg','/Images/Cohort-Hive/Cohort-4.jpg']
       
@@ -86,7 +86,7 @@ const projects = [
     
     This makes the workflow more robust, efficient, and explainable compared to standard RAG setups.`,
       tech: ["CrewAI", "Chroma", "Binary Quantization", "Streamlit", "Llama-3-70B", "Tavily"],
-      link: "https://github.com/yourusername/Medical-Agentic-Workflow",
+      link: "https://github.com/akasharts888/Medical-Agentic-Workflow",
       featured: true,
       gallery: ['/Images/MedicalAgenticWorkflow/Medical-Agent-2.jpg']
 
@@ -97,7 +97,7 @@ const projects = [
       description:
         "Designed a regression pipeline on Amazon Reviews dataset using ML models and fine-tuned LLaMA 3.1-8B, achieving 49.2% performance over 47.5% baseline with limited data. Integrated Weights & Biases for experiment tracking.",
       tech: ["LLaMA 3.1-8B", "HuggingFace", "W&B"],
-      link: "https://github.com/yourusername/llama-finetuning",
+      link: "https://github.com/akasharts888/Finetuning",
       featured : true
     },
     {
@@ -106,7 +106,7 @@ const projects = [
       description:
         "Built an end-to-end image captioning model with InceptionV3 encoder + LSTM decoder, trained on custom dataset. Implemented custom inference pipeline for dynamic caption prediction.",
       tech: ["PyTorch", "CNN", "RNN", "LSTM"],
-      link: "https://github.com/yourusername/image-caption-generator",
+      link: "https://github.com/akasharts888/Image-Caption-Generator",
     },
   ]
   

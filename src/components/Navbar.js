@@ -73,7 +73,7 @@ export default function Navbar() {
               </ul>
               {/* Resume Button (Desktop) */}
               <motion.a
-                href="https://drive.google.com/file/d/10Ew83Bx0_3F8MQK3yzThgdVlyylNblTV/view?usp=drive_link"
+                href="https://drive.google.com/uc?export=download&id=1bRZ4ARR5cTnHKjosU7H5v8JTnfehJZQZ"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}

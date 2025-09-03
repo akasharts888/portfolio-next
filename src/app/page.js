@@ -32,7 +32,7 @@ export default function Home() {
           className="text-4xl sm:text-6xl md:text-7xl font-extrabold leading-tight"
         >
           <span className="bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-500 text-transparent bg-clip-text animate-gradient">
-            Building the Future with AI
+            Shaping the Future with AI
           </span>
         </motion.h1>
         <motion.p
@@ -41,11 +41,12 @@ export default function Home() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="mt-6 max-w-3xl text-lg sm:text-xl text-zinc-300"
         >
-           I&apos;m <span className="font-semibold text-white">Akash Sharma</span> — Full Stack AI/ML Engineer
-          crafting{" "}
+          I&apos;m <span className="font-semibold text-white">Akash Sharma</span> — a Full Stack AI/ML Engineer 
+          specializing in{" "}
           <span className="text-cyan-300">Agentic AI</span>,{" "}
           <span className="text-blue-300">LLM fine-tuning</span>, and{" "}
-          <span className="text-purple-300">RAG systems</span> for real-world impact.
+          <span className="text-purple-300">RAG systems</span> that drive{" "}
+          <span className="font-semibold text-white">real-world impact</span>.
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
@@ -59,6 +60,29 @@ export default function Home() {
           >
              View Projects
           </Link>
+          <motion.a
+            href="https://drive.google.com/uc?export=download&id=1bRZ4ARR5cTnHKjosU7H5v8JTnfehJZQZ"
+            download
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.95 }}
+            className="px-6 py-3 rounded-lg bg-gradient-to-r from-cyan-500 to-purple-600 text-white font-medium shadow-lg hover:shadow-purple-500/30 transition flex items-center gap-2"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"
+              />
+            </svg>
+            Download Resume
+          </motion.a>
           <Link
             href="/contact"
             className="border border-zinc-700 text-zinc-300 px-6 py-3 rounded-lg font-medium transition-all hover:border-zinc-600 hover:text-white"
